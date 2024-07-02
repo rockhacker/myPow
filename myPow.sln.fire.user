@@ -56,13 +56,13 @@
 		<key>file:///Users/rocky/Downloads/myPow/myPow.elements_file:///Users/rocky/Downloads/myPow/Program.pas</key>
 		<dict>
 			<key>CursorX</key>
-			<integer>8</integer>
+			<integer>32</integer>
 			<key>CursorY</key>
-			<integer>37</integer>
+			<integer>74</integer>
 			<key>ScrollX</key>
 			<real>0.0</real>
 			<key>ScrollY</key>
-			<real>380</real>
+			<real>801</real>
 			<key>SelectionCursorUndecided</key>
 			<false/>
 			<key>SelectionEndColumn</key>
