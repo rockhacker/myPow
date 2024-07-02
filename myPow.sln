@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346d9-4656-40da-a068-22d5425d4639}") = "myPow", "myPow.elements", "{7c47e2de-599c-4b6e-b16d-4618cc00177d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7c47e2de-599c-4b6e-b16d-4618cc00177d}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{7c47e2de-599c-4b6e-b16d-4618cc00177d}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{7c47e2de-599c-4b6e-b16d-4618cc00177d}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{7c47e2de-599c-4b6e-b16d-4618cc00177d}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
